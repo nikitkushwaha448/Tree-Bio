@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 280" xmlns="http://www.w3.org/2000/svg" className="w-full h-full">
+  <!-- Tree crown (foliage) -->
+  <circle cx="100" cy="80" r="60" fill="#41B313" opacity="0.9"/>
+  <circle cx="70" cy="100" r="50" fill="#41B313" opacity="0.9"/>
+  <circle cx="130" cy="100" r="50" fill="#41B313" opacity="0.9"/>
+  <circle cx="85" cy="55" r="40" fill="#52D43B" opacity="0.9"/>
+  <circle cx="115" cy="55" r="40" fill="#52D43B" opacity="0.9"/>
+  
+  <!-- Tree trunk -->
+  <rect x="85" y="130" width="30" height="80" fill="#8B6F47" rx="5"/>
+  
+  <!-- Roots -->
+  <path d="M 80 210 Q 60 240 50 270" stroke="#8B6F47" strokeWidth="8" fill="none" strokeLinecap="round"/>
+  <path d="M 100 210 Q 100 240 100 270" stroke="#8B6F47" strokeWidth="8" fill="none" strokeLinecap="round"/>
+  <path d="M 120 210 Q 140 240 150 270" stroke="#8B6F47" strokeWidth="8" fill="none" strokeLinecap="round"/>
+  
+  <!-- Highlights on foliage -->
+  <circle cx="90" cy="70" r="8" fill="#52D43B" opacity="0.6"/>
+  <circle cx="110" cy="75" r="6" fill="#52D43B" opacity="0.6"/>
+  <circle cx="75" cy="95" r="7" fill="#52D43B" opacity="0.6"/>
+</svg>
